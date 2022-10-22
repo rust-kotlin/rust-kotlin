@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Talented-6
+- 👋 Hi, I’m @rust-kotlin
 - 👀 I’m interested in football
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on github
